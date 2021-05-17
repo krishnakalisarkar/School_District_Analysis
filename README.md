@@ -1,6 +1,6 @@
 # School_District_Analysis
 
-School district analysis with pandas.
+**School district analysis with pandas.**
 
 ![Figure_1](https://image.shutterstock.com/image-vector/happy-kids-school-supplies-group-260nw-1382398052.jpg)
 
@@ -14,15 +14,13 @@ The school board on receiving the initial report noticed academic dishonesty in 
 
 ## Results of the school district analysis:
 
-To start with all. The 9th grade scores were replaced with NaN using the loc function.
+To start with the analysis, firstly the 9th grade scores were replaced with NaN using the loc function.
 
-![Figure2](nan picture)
-
-### 1. How is the district summary affected?
-
-![Figure 3](Figure of district summary)
+![Figure2](Resources/Figure_2_nan.png)
 
 ### 1. How is the district summary affected?
+
+![Figure 3](Resources/Figure_3_district.png)
 
 After removing the 9th grade scores from Thomas High school, the overall passing percentage dropped from 65.17% to 64.9%. The math and reading passing percentage did not change much.
 
