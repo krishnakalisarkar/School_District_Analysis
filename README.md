@@ -62,5 +62,5 @@ Charter schools fared much better than the district schools in Average math and 
 
 In conclusion, we can state that after removing the 9th grade scores from Thomas High School, Thomas High School was still in the top 5 of the best performing schools. Thomas High School being a charter school, overall fared much better than the district schools. However, there was a decrease in overall passing percentage from 90.94% to 90.63% after replacing the 9th grade scores. After analyzing the number of students in 9th, 10th, 11th and 12th grades we can see that the number of students in 9th grade is 461 as compared to 421 in 10th grade, 415 in 11th grade and 338 in 12th grade. Since we removed the 9th grade students the overall passing percentage might have got affected.
 It also came into attention that the low performing schools had a higher per student budget and lower overall passing percentage than the high performing schools.  
-The medium and small schools have a much better overall passing percentage than the large schools.
+The medium and small schools have a much better overall passing percentage than the large schools.  
 Thomas High School being a mediun range Charter School ranks second in performance among all the other 15 schools and has good overall passing percentage.
