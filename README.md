@@ -17,7 +17,7 @@ The school board on receiving the initial report noticed academic dishonesty in 
 
 To start with the analysis, firstly the 9th grade scores were replaced with NaN using the loc function. This was followed by various functions that resulted in outputs that helped to provide insight into the data structure after the 9th graders from Thomas High School were replaced.
 
-![Figure2](Resources/Figure_2_nan.png)
+![Figure2](Resources/Fig_nan.png)
 
 ### 1. How is the district summary affected?
 
